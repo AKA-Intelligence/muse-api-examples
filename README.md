@@ -2,7 +2,7 @@
 
 **Environment:** python 2.7
 
-**Getting started:**
+**Installation:**
 
 ```bash
 sudo apt install python-dev
@@ -15,6 +15,9 @@ cd muse-api-examples
 pip install -r requirements.txt
 ```
 
+# Getting Started
+
+Check out get_started.ipynb.
 
 # Try out some example applications
 
