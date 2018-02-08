@@ -16,22 +16,33 @@ def signin(email,password):
 		data=json.dumps(data),headers=headers)
 	return response.json()['access_token']
 
-def get_candidate_responses(sent,access_token):
-	endpoint = '/chat/engine/retrieve/default/'
-	data = {'text':sent}
+def get_candidate_responses(sent,source='1'):
+	endpoint = '/chat/engine/retrieve/'
+	data = {'text':sent,'source':str(source)}
 	headers = {'Authorization':'Bearer '+access_token}
 	response = requests.post(muse_server+endpoint,
-		data=json.dumps(data),headers=headers)
+		data=json.dumps(data))
 	candidates = response.json()['data']['candidates']
 	candidates_text = [candidate['text'] for candidate in candidates]
 	return candidates_text
 
-def filter_responses(sent,candidates,access_token):
+def choose_data_source():
+	options = [1,2,3]
+	def print_options():
+		print("Choose response data source. Options are 1,2,3")
+	print_options()
+	data_source = str(raw_input('data source> '))
+	while int(data_source.lower()) not in options:
+		print "Not a valid data source."
+		print_options()
+		data_source = str(raw_input('data source> '))
+	return data_source
+
+def filter_responses(sent,candidates):
 	endpoint = '/nlp/relevance/multi/'
 	data = {'text1':sent,'candidates':candidates}
-	headers = {'Authorization':'Bearer '+access_token}
 	response = requests.post(muse_server+endpoint,
-		data=json.dumps(data),headers=headers)
+		data=json.dumps(data))
 	best_response = response.json()['data']['best']
 	candidate_scores = response.json()['data']['scores']
 	return best_response, candidate_scores
@@ -61,20 +72,21 @@ if __name__ == '__main__':
 
 	access_token = signin(email,password)
 	member_id = choose_member(access_token)
+	data_source = choose_data_source()
 
 	count = 0
 	text_out_2 = raw_input("Type a seed sentence > ")
 	while count < 7:
 
 
-		candidates_1 = get_candidate_responses(text_out_2,access_token)
-		best_1, scores_1 = filter_responses(text_out_2,candidates_1,access_token)
+		candidates_1 = get_candidate_responses(text_out_2,data_source)
+		best_1, scores_1 = filter_responses(text_out_2,candidates_1)
 		scores_argsort_1 = argsort(scores_1)
 		text_out_1 = candidates_1[random.choice(scores_argsort_1[-5:])]
 
 
-		candidates_2 = get_candidate_responses(text_out_1,access_token)
-		best_2, scores_2 = filter_responses(text_out_1,candidates_2,access_token)
+		candidates_2 = get_candidate_responses(text_out_1,data_source)
+		best_2, scores_2 = filter_responses(text_out_1,candidates_2)
 		scores_argsort_2 = argsort(scores_2)
 		text_out_2 = candidates_2[random.choice(scores_argsort_2[-5:])]
 
