@@ -1,12 +1,12 @@
+from config import muse_server
 import getpass
+
+import numpy as np
+
 import requests
-import random
 import json
 
-muse_server = 'https://muse.themusio.com/api'
-
-def argsort(seq):
-    return sorted(range(len(seq)), key=seq.__getitem__)
+import ipdb
 
 def signin(email,password):
 	endpoint = '/auth/signin/'
@@ -16,9 +16,9 @@ def signin(email,password):
 		data=json.dumps(data),headers=headers)
 	return response.json()['access_token']
 
-def get_candidate_responses(sent,access_token):
-	endpoint = '/chat/engine/retrieve/default/'
-	data = {'text':sent}
+def get_candidate_responses(sent,source='1'):
+	endpoint = '/chat/engine/retrieve/'
+	data = {'text':sent,'source':str(source)}
 	headers = {'Authorization':'Bearer '+access_token}
 	response = requests.post(muse_server+endpoint,
 		data=json.dumps(data),headers=headers)
@@ -33,8 +33,7 @@ def filter_responses(sent,candidates,access_token):
 	response = requests.post(muse_server+endpoint,
 		data=json.dumps(data),headers=headers)
 	best_response = response.json()['data']['best']
-	candidate_scores = response.json()['data']['scores']
-	return best_response, candidate_scores
+	return best_response
 
 def choose_member(access_token):
 	endpoint = '/member/'
@@ -55,6 +54,31 @@ def choose_member(access_token):
 		chosen_member_id = str(raw_input('member id> '))
 	return chosen_member_id
 
+def post_chatlog(member_id,text_in,text_out,access_token):
+	endpoint = '/chatlog/%s/'%str(member_id)
+	headers = {"Authorization":"Bearer "+access_token}
+	data = {"text_in":text_in,"text_out":text_out}
+	response = requests.post(muse_server+endpoint,
+		data=json.dumps(data),headers=headers)
+
+def analyze_intent(text,access_token):
+	endpoint = '/nlp/intent/'
+	headers = {"Authorization":"Bearer "+access_token}
+	data = {"text":text}
+	response = requests.post(muse_server+endpoint,
+		data=json.dumps(data),headers=headers)
+	intent = response.json()['data']['intent']
+
+	labels = []
+	scores = []
+
+	for label,score in intent.items():
+		labels.append(label)
+		scores.append(score)
+
+	best_label = labels[np.argmax(scores)]
+	return best_label
+
 if __name__ == '__main__':
 	email = raw_input("email: ")
 	password = getpass.getpass("password: ")
@@ -62,22 +86,15 @@ if __name__ == '__main__':
 	access_token = signin(email,password)
 	member_id = choose_member(access_token)
 
-	count = 0
-	text_out_2 = raw_input("Type a seed sentence > ")
-	while count < 7:
-
-
-		candidates_1 = get_candidate_responses(text_out_2,access_token)
-		best_1, scores_1 = filter_responses(text_out_2,candidates_1,access_token)
-		scores_argsort_1 = argsort(scores_1)
-		text_out_1 = candidates_1[random.choice(scores_argsort_1[-5:])]
-
-
-		candidates_2 = get_candidate_responses(text_out_1,access_token)
-		best_2, scores_2 = filter_responses(text_out_1,candidates_2,access_token)
-		scores_argsort_2 = argsort(scores_2)
-		text_out_2 = candidates_2[random.choice(scores_argsort_2[-5:])]
-
-		print 'bot1', text_out_1
-		print 'bot2', text_out_2
-		count += 1
+	while True:
+		text_in = raw_input("> ")
+		intent = analyze_intent(text_in, access_token)
+		if intent != 'other':
+			text_out = 'Sorry, I cannot understand how to handle %s yet.'%intent
+		else:
+			candidates = get_candidate_responses(text_in,source=1)
+			text_out = filter_responses(text_in,candidates,access_token)
+		post_chatlog(member_id,text_in,text_out,access_token)
+		print text_out
+		
+		
