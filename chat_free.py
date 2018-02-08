@@ -64,14 +64,9 @@ if __name__ == '__main__':
 
 	jwt = signin(email,password)
 	member_id = choose_member(jwt)
-	bot_emotion = choose_bot_emotion()
 
 	while True:
 		user_text = raw_input('[U] ')
-		try:
-			chat_resp = chat(user_text,jwt,member_id,bot_emotion)['data']['text_out']['text']
-		except:
-			jwt = signin(email,password)
-			chat_resp = chat(user_text,jwt,member_id,bot_emotion)['data']['text_out']['text']
+		chat_resp = chat(user_text,jwt,member_id,bot_emotion)['data']['text_out']['text']
 
 		print '[B]', chat_resp
