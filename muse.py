@@ -135,7 +135,7 @@ def get_contextual_question(sent,used_question_ids,jwt):
 def comprehend(passage,question):
 	data = {'passages':[passage],'questions':[question]}
 	res = requests.post(muse_server+'/nlp/machine-comprehension/',json=data)
-	print("answer: "+res.json()[0]['best_span_str'])
+	return res.json()[0]['best_span_str']
 
 def relevance_filter(context,sent,candidates):
 	endpoint = '/nlp/relevance/multi/'

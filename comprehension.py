@@ -9,4 +9,4 @@ if __name__=='__main__':
 	while True:
 		passage = raw_input('passage> ')
 		question = raw_input('question> ')
-		comprehend(passage,question)
+		print(comprehend(passage,question))

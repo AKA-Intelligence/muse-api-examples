@@ -4,7 +4,7 @@
 
 **Getting started:**
 
-```
+```bash
 sudo apt install python-dev
 sudo apt install python-pip
 pip install virtualenv
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 # Try out some example applications
 
-```
+```bash
 python chat_free.py
 python chat_scripted.py
 python generative.py
