@@ -1,0 +1,396 @@
+3	1	How are you?
+3	1	What's your hobby?
+3	1	What's your name?
+4	1	Did you have lunch? 
+4	1	Do you enjoy flying?
+4	1	Do you ever gamble?
+4	1	Do you recycle well?
+4	1	How are you doing?
+4	1	How are you today?
+4	1	How's the weather today?
+4	1	What is your dream?
+5	1	Do you ever insult people?
+5	1	Do you get sick often?
+5	1	Do you like drinking wine?
+5	1	Do you like winter weather?
+5	1	Do you often get mail?
+5	1	How are you feeling today?
+5	1	How fast can you type?
+5	1	what day is it today? 
+5	1	What did you do today?
+5	1	What is your ethnic background?
+5	1	What is your favorite color?
+5	1	What is your favorite fruit?
+5	1	What is your favorite meal?
+5	1	What is your favorite movie?
+5	1	What is your favorite sport?
+6	1	Are you afraid of the dark?
+6	1	Can you stand on your head?
+6	1	Did you eat a snack today?
+6	1	Do you have a favorite food?
+6	1	Do you have a middle name?
+6	1	Do you have a strong memory?
+6	1	Do you know any sign language? 
+6	1	Do you know your blood type?
+6	1	Do you like to follow fashion?
+6	1	Do you think water is expensive?
+6	1	How can every help the environment?
+6	1	How many people in your family?
+6	1	What are you up to today?
+6	1	What did you eat for lunch?
+6	1	What did you have for breakfast?
+6	1	What do you do for fun?
+6	1	What is your favorite breakfast food?
+6	1	What is your favorite movie series?
+6	1	Who is your hero and why?
+7	1	Did you ever swim in a race?
+7	1	Do you drink enough water every day?
+7	1	Do you ever listen to rock music?
+7	1	Do you have a good sleep schedule?
+7	1	Do you have a routine sleeping position?
+7	1	Do you have a social media page?
+7	1	Do you prefer hot or cold weather?
+7	1	Do you think you are very social? 
+7	1	Do you want to travel in time?
+7	1	How can you break a bad habit?
+7	1	How old do you think is "old"?
+7	1	What is your favorite animal and why?
+7	1	What is your favorite book and why?
+7	1	What is your favorite thing to drink?
+7	1	What time zone do you live in?
+7	1	Which do you prefer, Coffee or tea?
+8	1	Are you a dog or a cat person?
+8	1	Do you have any favorite kind of weather?
+8	1	Do you like to play in the snow?
+8	1	Do you think there can be world peace?
+8	1	What do you do in your free time? 
+8	1	What is your favorite food from another culture?
+8	1	What should I eat? Whats your favorite snack?
+9	1	Are you a city person or a country person?
+9	1	Do you donate your time or money to charity? 
+9	1	Do you have a favorite flavor of ice cream?
+9	1	Do you have or do you want a pet?
+9	1	How do you wind down after a long day?
+9	1	How tall do you think is the perfect height?
+9	1	What do you have that you are grateful for? 
+9	1	What is your routine before you go to bed?
+9	1	Whats the weather going to be like this week?
+10	1	What would you like to do in your free time?
+11	1	Did you ever take a trip over spring or summer break?
+11	1	Did your class have a pet when you were in school?
+11	1	Do you go to bed at a regular time every day?
+11	1	Do you think time travel will be possible in the future?
+11	1	What music do you like to listen to in the morning?
+12	1	Did you ride a bus to school when you were a child?
+12	1	How do you keep in touch with people who live far away? 
+12	1	How do you think being a celebrity could be a bad thing?
+13	1	Do you think you would do well working a job that was overnight?
+13	1	If you could have any animal as a pet which would you choose?
+13	1	If you could, would you have your brain put in a robot body?
+14	1	how is the weather where you live? Is it affecting you in any way?
+14	1	If one species on Earth could learn to talk, which animal would you choose?
+14	1	If you could have one present for your birthday, what would you ask for?
+15	1	If you can time travel then who is that one person you want to meet?
+16	1	If you could pick one skill to be great at, what will it be and why?
+17	1	Do you have or would you get a Tattoo? If so, what would it be and where?
+17	1	Do you like your job? If money were no issue, what would you like to do instead?
+17	1	If you could learn the answer to one question about your future, what would the question be?
+18	1	Did you go to graduate school? Would you want to go back to school again if you could?
+4	2	Are you usually happy?
+4	2	Are you very talkative?
+4	2	Can you play chess?
+4	2	Do you regularly exercise?
+4	2	Do you wear sunscreen?
+5	2	Are you an only child?
+5	2	Can you do a cartwheel?
+5	2	Can you ride a bike?
+5	2	Do colors influence your mood?
+5	2	Do you believe in telekensis?
+5	2	Do you eat sandwiches often?
+5	2	Do you have any allergies?
+5	2	Do you have any houseplants?
+5	2	Do you have any nicknames? 
+5	2	Do you have any penpals?
+5	2	Do you have any phobias?
+5	2	Do you know any palindromes?
+5	2	Do you like classical music?
+5	2	Do you like outdoorsy stuff?
+5	2	Do you play any sports?
+5	2	Have you ever been hunting?
+5	2	How would you describe yourself?
+5	2	Tell me about your day!
+5	2	Who is your favorite actor?
+6	2	Are you a very organized person?
+6	2	Are you good at being agreeable?
+6	2	Are you left or right handed? 
+6	2	Describe to me your usual day.
+6	2	Do you always match your socks?
+6	2	Do you have a favorite superhero?
+6	2	Do you have a morning ritual?
+6	2	Do you have any bad habits?
+6	2	Do you have any food allergies?
+6	2	Do you have some favorite clothes?
+6	2	Do you know your zodiac sign?
+6	2	Do you like learning new languages?
+6	2	Do you like to play games?
+6	2	Do you regularly cook at home?
+6	2	Do you think you are stylish?
+6	2	Do you usually wear a watch?
+6	2	Does public speaking make you nervous? 
+6	2	Have you ever "paid it forward"?
+6	2	Have you ever had a nightmare?
+6	2	Have you ever met a genius?
+6	2	How do you help your friends?
+6	2	Tell me a little about you.
+6	2	What is your favorite junk food?
+6	2	What is your favorite sports team?
+6	2	What is your favorite TV show?
+7	2	Are a fan of any sports team?
+7	2	Are you a member of any clubs?
+7	2	Are you currently in your dream job? 
+7	2	Are you satisfied with your internet speed?
+7	2	Could you be a good security guard?
+7	2	Did you ever watch any Japanese animation?
+7	2	Do you have a favorite stationery item?
+7	2	Do you have a fear of heights?
+7	2	Do you have plans for the weekend?
+7	2	Do you like to follow political news?;
+7	2	Do you think fish make good pets?
+7	2	Have you ever competed in a marathon?
+7	2	Have you ever lived on your own?
+7	2	Have you ever seen a shooting star?
+7	2	How can we make society more fair?
+7	2	How do you deal with sad memories? 
+7	2	What is your favorite thing about yourself?
+7	2	What season do you like the most 
+7	2	When did you start to learn English?
+7	2	When do you feel bad for yourself?
+7	2	Who is your favorite person on TV?
+7	2	why do you want to learn English?
+8	2	Are there any foods you hate to eat?
+8	2	Are there seasons where you live? How many?
+8	2	Are you a messy or a neat person?
+8	2	Are you good at fixing problems with technology?
+8	2	Are you or do you know any vegetarians?
+8	2	Can you recommend a good book to me? 
+8	2	Do you have a high tolerance for pain?
+8	2	Do you know how many bones you have?
+8	2	Do you like documentaries? Why / why not?
+8	2	Do you like to talk about current events? 
+8	2	Do you stay in hotels when you travel?
+8	2	Do you think it's important to be thin?
+8	2	Do you think you are a good actor?
+8	2	Do you think you could live on Antarctica?
+8	2	Do you try to do good deeds often?
+8	2	Do you use any type of cloud storage?
+8	2	Have you ever crossed the international date line?
+8	2	Have you ever gone fishing in the sea?
+8	2	Have you ever gone to the emergency room?
+8	2	Have you ever gotten close to a dolphin?
+8	2	Have you ever subscribed to a streaming service?
+8	2	Have you thought about doing a sky walk?
+8	2	What is your favorite kind of TV show?
+8	2	What is your favorite place to take pictures?
+8	2	What is your favorite side dish or condiment?
+8	2	What musical instrument would you like to learn?
+9	2	Are you able to solve your own computer problems? 
+9	2	Did anybody ever play a practical joke on you?
+9	2	Do you eat out or order in more often? 
+9	2	Do you get lots of snow where you live?
+9	2	Do you like horror movies? Why or why not?
+9	2	Do you think all animals on Earth are important?
+9	2	Do you think eating cereal is a good breakfast?
+9	2	Do you think you are more positive or negative?
+9	2	Does your country have a king or a queen?
+9	2	Have you ever drived a car in another country?
+9	2	What do you have to brag about this week?
+9	2	What is your favorite song when you feel lonely?
+9	2	What kind of anime would you suggest I watch? 
+9	2	What were your experiences at your first job like?
+9	2	What would your life be like without a computer? 
+9	2	Would you like to try living on another planet?
+10	2	Are there any special kinds of candy from your country?
+10	2	Are you a big fan of any current pop icons?
+10	2	Are you crafty? What kind of stuff do you make?
+10	2	Can you use a number keypad without looking at it?
+10	2	Do you enjoy cooking? What can you make the best? 
+10	2	do you have a current goal you are working towards?
+10	2	Do you have any ideas for dealing with food waste?
+10	2	Do you think factory work would be intersting for you?
+10	2	Do you think mosquitos do any good in the world?
+10	2	Have you ever been up in a hot air balloon?
+10	2	How do you unwind at the end of the day?
+10	2	What are you looking forward to in the coming month?
+10	2	What do you do at work when things aren't busy? 
+10	2	What is your favorite thing to do when you're alone?
+10	2	What was the last movie you saw in a theater?
+11	2	Did you ever go to a dog cafe? How was it?
+11	2	Do you ever feel like you are always running away ?
+11	2	Do you ever have times when they want to be alone?
+11	2	Do you ever use any home remidies when you are sick?
+11	2	Do you have any friends from a religion other than yours?
+11	2	Do you think obesity is a big problem in your country?
+11	2	Have you ever had to make a public apology? (How come?)
+11	2	Have you had to deal with the loss of a pet?
+11	2	If you could have a single superpower, what would it be?
+11	2	If you could interview one deceased person, who would you choose? 
+11	2	If you could live anywhere on Earth, where would you go?
+11	2	Is there something in the world that you want to change? 
+11	2	What is your favorite thing to talk about with your friends? 
+11	2	Would you like to work in a huge company like Google?
+12	2	Are there any songs that always bring a tear to your eye?
+12	2	Do you drink tap water in your home or buy bottled water?
+12	2	Do you think some censorship on the internet is a good thing?
+12	2	Have you ever gone up to the top of a light house?
+12	2	How many different alphabets do you think there are in the world?
+12	2	If you could change one thing about yourself, what would it be?
+12	2	if you could play one sport professionally, which one would you choose?
+13	2	Do you have a nickname? What is it? How did you get it?
+13	2	Do you like go to out for New Years or just stay home?
+13	2	Do you like seeing a movie in a theater or at home better?
+13	2	Do you like your name? If given the chance, would you change it?
+13	2	Do you think it would be easy to learn to fly a plane?
+13	2	Do you think you have a voice that would be good for narration?
+13	2	Every get so frustrated at work that you just want to walk out?
+13	2	How many cups of coffee do you think you drink in a week?
+13	2	If you could have tea with one fictional character, who would it be?
+13	2	If you could master any instrument on Earth instantly, what would it be?
+13	2	When was a time that you put all your eggs in one basket?
+14	2	Do you have a hobby? How did you figure out what you liked doing?
+14	2	Do you have your own website or blog? What do you publish on it?
+14	2	Do you speak more than one language and how well do you speak it?
+14	2	Do you think that the type of shows that people watch reflect their personality?
+14	2	Have you ever set two friends up on a date? (How did it go?)
+14	2	How much time do you spend on the internet? What do you usually do?
+14	2	If you could go anywhere in the world, where would you go and why?
+15	2	Are you married? If so, for how long? If not, do you want to be?
+15	2	Are you very active of do you prefer to just relax in your free time?
+15	2	Do you think people could live today if there were still dinosaurs on the planet?
+16	2	Do you have a phone at home? If not, when was the last time you did?
+16	2	If you were going to make a video to post online, what would it be about? 
+16	2	What do you do when you have to tell someone "no" when they ask a favor?
+16	2	When something is bothering you what do you do to help you not dwell on it?
+17	2	How often do you think about quitting your job and what would you do if you did?
+17	2	If you could get tickets to any concert in the whole world, who would you go see?
+17	2	If you could go out to eat any meal you wanted, for free, where would you go?
+18	2	If you could say something to your favorite celebrity who would it be and what would you say?
+4	3	Tell me about yourself!
+5	3	Anything exciting happening this week?
+5	3	Do you often procrastinate things?
+5	3	Have you ever built something?
+5	3	Have you ever tutored someone? 
+5	3	When have you felt overwhelmed?
+6	3	Are you good at making desserts?
+6	3	Are you handy at fixing things?
+6	3	Are you scared of any bugs?
+6	3	Describe yourself in a few words.
+6	3	Do yo have a selfie stick?
+6	3	Do you chat online with strangers?
+6	3	Do you regularly brush your teeth?
+6	3	Have you ever been to India?
+6	3	How do you handle self-critical voices?
+7	3	Can you tell when someone is lying?
+7	3	Did you ever learn something new online?
+7	3	Do you ever borrow your friends clothes?
+7	3	Do you prefer fiction or nonfiction books?
+7	3	Do you prefer physical books or ebooks?
+7	3	Do you think tongue twisters are funny?
+7	3	Do you think white lies are okay?
+7	3	Do you think you'll live to 100? 
+7	3	Do you use any online streaming services? 
+7	3	Have you ever taken a class online?
+7	3	How do you usually sign your emails?
+7	3	How was life different before smart phones?
+7	3	What do you do to alleviate boredom?
+7	3	What is something you love about yourself?
+8	3	Are there any sounds that really annoy you?
+8	3	Are there any TV shows you don't like?
+8	3	Can you name some animals that use camoflage?
+8	3	Do you ever ask older people for advice?
+8	3	Do you have any exciting plans for today?
+8	3	Do you have any ideas for new inventions?
+8	3	Do you know of anybody who was assassinated?
+8	3	Do you text more or call more? Why?
+8	3	Do you use a clothes dryer at home?
+8	3	Have you ever been to a haunted house?
+8	3	Have you ever made anything out of wood?
+8	3	Have you ever screamed at someone? (How come?)
+8	3	Have you ever seen dolphins in the wild?
+8	3	Have you ever tried to make some origami?
+8	3	What are some things you are scared of? 
+9	3	Did you encounter anything this week that was inspiring?
+9	3	Do you have any pets? What are their names?
+9	3	Do you think animals experience emotions like people do?
+9	3	Do you think capital punishment is a good punishment?
+9	3	Do you think illegal downloading is a big problem?
+9	3	Do you think it's offensive to call people "crazy'?
+9	3	Have you ever been in a really bad airport?
+9	3	What do you usually do on New Year's day?
+9	3	What is your favorite regional cuisine in the world?
+10	3	Are emotions necessary for human survival? Why or why not?
+10	3	Are there any words that you think are completely international?
+10	3	Are there are any societal norms you want to change? 
+10	3	Are you happy? What about your life makes you happy? 
+10	3	Do you have any habits you wish you could erase?
+10	3	Do you think homephones could be improved in any way?
+10	3	Does everyone in your immediate family have the same name?
+10	3	Have you ever won an award? What was it for?
+11	3	At what point do you decide to upgrade your cell phone?
+11	3	Can you be homesick for somewhere that was never your home?
+11	3	Do you ever have funny or interesting thoughts in the shower?
+11	3	Do you have a controled diet or do you eat freely?
+11	3	Do you think Las Vegas would be a good vacation spot?
+11	3	Do you think people immigrating to your country make it better?
+11	3	Do you think people who are good at math are smarter?
+11	3	Do you think walking is good exericse? Better than weight training?
+11	3	Have you ever been vegetarian? What did or would you eat?
+11	3	Have you ever fantasized about changing your first name? To what?
+11	3	How can you take your mind off of something or someone?
+11	3	How do you show others how much you care for them?
+11	3	How long does it take your phone battery to run down?
+11	3	Is there something out there that disgusts you? What is it?
+12	3	Are there are special traditions or customs in your country surrounding death?
+12	3	Did you ever get a really bad haircut? What did you do? 
+12	3	Do you have a favorite quote? What makes it resonate with you?
+12	3	Do you have any personal rituals for the end of the year?
+12	3	Do you have good vision? If not, do prefer contacts or glasses?
+12	3	Do you think pets are good or bad for kids to have?
+12	3	Have you been to a fine dining restaurant? What did you order?
+12	3	How can you make someones day when they are really far away?
+12	3	How do you get motivated and stay that way without losing focus?
+12	3	How would you live your life if money was not an issue?
+12	3	Is public transportation in your area convenient? How could it be better?
+12	3	What would happen if you deleted all of your social media accounts? 
+13	3	Any tips on finding out what you want to do with your life?
+13	3	Are you more likely to procrastinate a task or to finish it early?
+13	3	Do you do your own laundry or does somebody do it for you?
+13	3	Do you think factory work will be done by humans for much longer?
+13	3	How much do you think you spend on groceries in an average month?
+13	3	If you could have 3 wishes, what would you wish for? And why?
+13	3	What do you do if you meet panhandlers or beggars in the street?
+13	3	What is one of your favorite topics to talk about with your friends? 
+13	3	What is something that you do regularly that is a waste of time?
+13	3	When you have too much going on, any advice on how to refocus?
+14	3	Do you think it's better to travel by land or air to a destination?
+14	3	Do you think your country makes enough of an effort to use green energy?
+14	3	do your parents had a favorite kid? do you have a favorite family member?
+14	3	Have you ever grown vegetables? If not, what would you like to try growing? 
+14	3	Have you ever had a psychic reading? Did you believe it? Was it accurate?
+14	3	Have you ever reconnected with an old friend after a long period of time?
+14	3	What languages do you guys speak? Or what language would you like to learn?
+15	3	Are you happy with your job choice? Would you have done something different looking back?
+15	3	How do you keep a conversation going when the other person invovled isnt very talkative?
+15	3	What kind of app do you think you need for your phone? Make one up!
+15	3	When is a time that you felt useless and what did you do about it?
+15	3	Who is your favorite author and why? What are some of their more popular works?
+16	3	Did you ever meet someone online? How did it go and where are you two now?
+16	3	Do think it would be more fun or scary to go around the Earth in space?
+16	3	Do you have something that is super important to you that no one else cares about?
+16	3	How do you think the first passengers on the first passenger flight felt during take off?
+16	3	What is the best gift you have ever gotten on a holiday or for your birthday? 
+17	3	Do you have a song that you listen to when you get angry or bitter about something?
+17	3	Do you think you could drive on the opposite side of the road than you do normally?
+17	3	Have you guys ever lived in a country far away from your home? What was it like?
+17	3	If you had to live as an animal, what kind of animal would you want to be? 
+18	3	Do you think it would be harder to learn a spoken language or a sign language from birth?
+18	3	What do you think is the coolest thing about you? Is it a very unique trait of yours?

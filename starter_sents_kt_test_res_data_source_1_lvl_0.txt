@@ -1,0 +1,396 @@
+1	How are you?	Not bad.. Pretty busy.	To be honest I don't know	Good,. How are you?	Not bad, you?
+1	What's your hobby?	I draw or sketch.	I play guitar a lot.	My cat is my hobby.
+1	What's your name?	My name is Chase.. What's yours ? 
+1	Did you have lunch? 	nothing.	Coffee.
+1	Do you enjoy flying?	Why wouldn't I?	Not sure what you mean?
+1	Do you ever gamble?
+1	Do you recycle well?	no	I have to study for a major test I have tomorrow	Write
+1	How are you doing?	Pretty good.. A little hungry.	Headache.	Fine
+1	How are you today?	Alright.. Feeling a bit under the weather.	Just a lazy Sunday.
+1	How's the weather today?	Wet.
+1	What is your dream?	Teenage Dream	is it bad if you dont know ?
+1	Do you ever insult people?	a nice weird lady	". Like"	Well that was negative.
+1	Do you get sick often?	Read.	Wait, are you home sick or sick at home?	Not at all.
+1	Do you like drinking wine?	WHAT?	No	I drink black coffee.. I love it.
+1	Do you like winter weather?	Winter, I don't burn to a crisp.	Winter	Not last winter.. 2004.
+1	Do you often get mail?	On foot. '	I do, but because I have to, not because I want to	No one will judge you..  No one will even notice.	Coffee date like every other day.	Pretty often
+1	How are you feeling today?	I don't feel very good at all.
+1	How fast can you type?	You don't think.	I	I'll probably never know.
+1	what day is it today? 	SUN ! . I SEE SUN!	Good.	Not good
+1	What did you do today?
+1	What is your ethnic background?	Male.
+1	What is your favorite color?	Royal Blue.. Why?	Dark blue	Blue, I don't know why I just like it	Green.	Blue it is ! 
+1	What is your favorite fruit?	bacon.	I enjoy a good lemon
+1	What is your favorite meal?	Pizza, always pizza.. Thin pizza, fat pizza.	pizza all the way	Beer ! 
+1	What is your favorite movie?	Back to the Future ! 
+1	What is your favorite sport?
+1	Are you afraid of the dark?	Yes.. I refuse to be in the dark alone without some form of light.	Afraid of what?
+1	Can you stand on your head?	i try to lay on my stomach for this reason	Every.. Single.	Yes and it was the highlight of that day.	All.. The.	All.. The.
+1	Did you eat a snack today?	It is 20 to noon, so I will likely have a Pie and soft drink for lunch.
+1	Do you have a favorite food?	A local joint in my town.	My man ! 
+1	Do you have a middle name?	Why ? 	Because it was almost my first name.
+1	Do you have a strong memory?	I need 3.50
+1	Do you know any sign language? 
+1	Do you know your blood type?	I can put one leg behind my head while standing on the other.	Send it to the sun.
+1	Do you like to follow fashion?
+1	Do you think water is expensive?	Hot or cold?	Not enough  ! 	I have a dream ! . My dream is to have a dream!
+1	How can every help the environment?	Give blood ! 	I like you.. To cleaning I go ! 	So what's your problem?. Maybe we can help
+1	How many people in your family?	5	3, how about you?	"alright?" "alright"	A half and awkward hug
+1	What are you up to today?
+1	What did you eat for lunch?	It is 20 to noon, so I will likely have a Pie and soft drink for lunch.	nothing.
+1	What did you have for breakfast?	My wife.	Nothing	Toast.	Cold pizza from yesterday.
+1	What do you do for fun?	i sleep for fun. but.. i wouldnt recommend that as a date idea.	Drawing	Play either basketball or Destiny.
+1	What is your favorite breakfast food?	Cheese.
+1	What is your favorite movie series?	Breaking bad.
+1	Who is your hero and why?	I can be your hero baby.	My brother. 	I don't know..
+1	Did you ever swim in a race?	No, I didn't catch public transport today or go into the city.	Good luck man ! 	What?	No, wasn't busy on a Tuesday night.	Yes I can ! 
+1	Do you drink enough water every day?	Not enough  ! 	Twice.	I just keep a water bottle at my desk.. Both my home desk and my desk at work.
+1	Do you ever listen to rock music?	I pretty much just listen to hard rock but I do like some metal.
+1	Do you have a good sleep schedule?	I would love to join a group like that. but I work every day
+1	Do you have a routine sleeping position?	On my back.
+1	Do you have a social media page?	Again no..	No problem.
+1	Do you prefer hot or cold weather?	Cold	Do you live in a hot country ? . Want to trade?	Winter	Winter, I don't burn to a crisp.
+1	Do you think you are very social? 	Thank you ! . You are awesome as well.	Going to a theme park, and seeing a movie in the cinema ! 
+1	Do you want to travel in time?	Back home.
+1	How can you break a bad habit?	I speed.. A lot.	I walk away, too much negative energy
+1	How old do you think is "old"?	Get a first in my university grade.. Which would be great.	True
+1	What is your favorite animal and why?	How do you even know what your spirit animal is?
+1	What is your favorite book and why?	All your base
+1	What is your favorite thing to drink?
+1	What time zone do you live in?
+1	Which do you prefer, Coffee or tea?	both, you?	Coffee, tea and hot chocolate.. Do I have to choose?	Coffee	Inject it
+1	Are you a dog or a cat person?	Cat person here.. I miss my cat though.	Cat	I wish.	Of course !  Any fur or scale baby is fine
+1	Do you have any favorite kind of weather?	My favorite thing is talking to people
+1	Do you like to play in the snow?	Pool.	Yes.. Yes we are.
+1	Do you think there can be world peace?	I have a dream ! . My dream is to have a dream!
+1	What do you do in your free time? 	This.	Free time?.  I don't understand this phrase?
+1	What is your favorite food from another culture?	All of it.	A nice steak ! 	Man.. I don't have one way I prefer.
+1	What should I eat? Whats your favorite snack?
+1	Are you a city person or a country person?	Not at all, why?	Like a level 3.	No, you aren't wrong.
+1	Do you donate your time or money to charity? 	Yes I do	art modeling	Rent a room in my house
+1	Do you have a favorite flavor of ice cream?	Coffee.. Because coffee.	Strawberry ! What's your favorite smell?	Green tea
+1	Do you have or do you want a pet?	No.	No one yet  ! 	I mean.. Kind of.	I want to go into school psychology.
+1	How do you wind down after a long day?	In bed.
+1	How tall do you think is the perfect height?	I have no idea why I can eat so much yet I don't gain a lot of weight.
+1	What do you have that you are grateful for? 	Just staying with my dad for the weekend.
+1	What is your routine before you go to bed?	Breakfast
+1	Whats the weather going to be like this week?	Eat and sleep, and not bother going into work.	The answer to every question you have is college	School.. To be honest
+1	What would you like to do in your free time?	Free time?.  I don't understand this phrase?	This.	Exercise, sing and die on call of duty
+1	Did you ever take a trip over spring or summer break?	Nothing but resting, my break is over now .back to school tomorrow	Just a lot of rain on the wet coast?	Same ! . I'll be starting voluntary work soon too.
+1	Did your class have a pet when you were in school?	Yes ! 	We'll be in the same school for about another year
+1	Do you go to bed at a regular time every day?	Relaxing stuff.
+1	Do you think time travel will be possible in the future?	No, only in the past.	I feel like if it were going to be possible, we would already know.	If you can afford it. Do the Trail ! 	As far in the future as possible.. Reason?
+1	What music do you like to listen to in the morning?
+1	Did you ride a bus to school when you were a child?	No.. I hate my high school.
+1	How do you keep in touch with people who live far away? 	thank you
+1	How do you think being a celebrity could be a bad thing?	I have a dream ! . My dream is to have a dream!	I don't know.. Maybe I wouldn't be a good friend.	true	I need 3.50
+1	Do you think you would do well working a job that was overnight?
+1	If you could have any animal as a pet which would you choose?	Dolphin ! 	Giraffe !  	A rabbit	Space Dolphin.. They jump into to space and get space food from the space restaurant.	A polar bear ! !. So cute!
+1	If you could, would you have your brain put in a robot body?	I have a wall, how is this going to work?	I will.. Going back to school soon	Is it true if you don't use it, you lose it?	A little.	I'll try tomorrow
+1	how is the weather where you live? Is it affecting you in any way?	So hot.. Yet.	Raining and cold	Wet.. Not too cold, but wet.
+1	If one species on Earth could learn to talk, which animal would you choose?	left half cat.	Did you mean house.?	Nice question ! . Hard to decide, so I'll choose two.
+1	If you could have one present for your birthday, what would you ask for?	A quality dinner	Cash.. A new guitar.
+1	If you can time travel then who is that one person you want to meet?	My middle brother.
+1	If you could pick one skill to be great at, what will it be and why?	Well I still have some time to make a decision.	Good point.	I deal with music.
+1	Do you have or would you get a Tattoo? If so, what would it be and where?	I wouldn't.
+1	Do you like your job? If money were no issue, what would you like to do instead?	Just staying with my dad for the weekend.
+1	If you could learn the answer to one question about your future, what would the question be?	Yes.	geography and soccer.	"So, how about that weather?"	What do in your spare time?	That I was a good man.
+1	Did you go to graduate school? Would you want to go back to school again if you could?	I don't know.	Why don't you get a job instead then	Never look back
+2	Are you usually happy?	.no	Maybe.	not always?
+2	Are you very talkative?	No, not at all.	I don't know what that is.
+2	Can you play chess?	Do I play?. Yes.	Just a lot ! 
+2	Do you regularly exercise?	Twice a week.
+2	Do you wear sunscreen?	a spray every now and then	One spray every now and then.	I wear it to work otherwise no..  To much walking at work to not wear no matter the temperature.	Always.. Even in the shower
+2	Are you an only child?	This is key.	Baseball
+2	Can you do a cartwheel?	I love the water.. I feel like I belong there.	Yes	"All I can do is lay in my room, fall asleep dream of you and wake up and do nothing about it"
+2	Can you ride a bike?	That is very true .	Why ? . I always just put it off.	3	Yes I can ! 	.. How did you know ? 
+2	Do colors influence your mood?	Not sure what you mean.
+2	Do you believe in telekensis?	Not during the day.	No.	Happy Cake Day ! 	So how's work?	So, where is rat death?
+2	Do you eat sandwiches often?	No	With rice.. You must try it.
+2	Do you have any allergies?	I know for a fact that I do. but I couldn't tell you off the top of my head what they are.
+2	Do you have any houseplants?	I know for a fact that I do. but I couldn't tell you off the top of my head what they are.	I mean.. Kind of.
+2	Do you have any nicknames? 	No.	What cat?
+2	Do you have any penpals?	I have not, may need to look that up ! 	I know for a fact that I do. but I couldn't tell you off the top of my head what they are.	I enjoy drawing and music
+2	Do you have any phobias?	What's yours first?	I know for a fact that I do. but I couldn't tell you off the top of my head what they are.	I have a soft voice.	What do you mean?
+2	Do you know any palindromes?	I do.. How did you figure THAT out?	If you could choose who to fall in love with, and make that person fall in love with you, would you do it?	So, where is rat death?	So how's work?
+2	Do you like classical music?	What music do you like?	Adult contemporary
+2	Do you like outdoorsy stuff?	Yes I do like stuff	I do.. How did you figure THAT out?	I feel it often ! . Especially with music.	Cold pizza is great?	Why would you say that?
+2	Do you play any sports?	Cross country and track here.	Football ! 	I work out quite a bit but my main sport is rock climbing	I cross county ski..  I was on a team my senior year of high school.	Yes ! . I play cricket!
+2	Have you ever been hunting?	Yes.
+2	How would you describe yourself?	Fat and short, physical wise.. Awesome personality wise
+2	Tell me about your day!	What a week!. I'll never ever forget this week.	They don't exist!
+2	Who is your favorite actor?	No. 2.	You
+2	Are you a very organized person?	Thank you.	I wouldn't go that far, but thank you ! 	Like a level 3.	Not at all, why?	Yes ! 
+2	Are you good at being agreeable?	Not caring.	Casual Conversation.
+2	Are you left or right handed? 	Right.. What's the first thing to your left?	Left.. When walking with another person, I always like to be on the left side.	Not right now.
+2	Describe to me your usual day.	Wake up, Go back to sleep.. Wake up and get ready for work.	At the moment.. Wake up.	Confident.. Happy in her own skin.
+2	Do you always match your socks?	Value Village	Old Navy.	pants
+2	Do you have a favorite superhero?
+2	Do you have a morning ritual?	Work	In bed.
+2	Do you have any bad habits?	I know for a fact that I do. but I couldn't tell you off the top of my head what they are.
+2	Do you have any food allergies?
+2	Do you have some favorite clothes?	Value Village	Old Navy.
+2	Do you know your zodiac sign?
+2	Do you like learning new languages?
+2	Do you like to play games?	Poster	Water bottle?	How about food?
+2	Do you regularly cook at home?
+2	Do you think you are stylish?	Yes.	No	Yes.
+2	Do you usually wear a watch?	a spray every now and then	One spray every now and then.	STOP
+2	Does public speaking make you nervous? 	Good point man
+2	Have you ever "paid it forward"?	No.	Nice	Get a first in my university grade.. Which would be great.
+2	Have you ever had a nightmare?
+2	Have you ever met a genius?	Who did you meet?
+2	How do you help your friends?	I'll be your friend 3	How should I know?	I don't
+2	Tell me a little about you.
+2	What is your favorite junk food?	All of it.	A nice steak ! 	Cheese.	Pizza.. I dont have it very often.	Chocolate ! . You?
+2	What is your favorite sports team?	Baseball ! !
+2	What is your favorite TV show?	30 rock	King of the Hill.
+2	Are a fan of any sports team?	Not at all	Wild all the way ! 	Wild ! 
+2	Are you a member of any clubs?	Dare.
+2	Are you currently in your dream job? 
+2	Are you satisfied with your internet speed?	Too slow, too much.	I don't have to.. I use the one at work.	Where did you test it at?	Sleep
+2	Could you be a good security guard?	Don't feed him.	I didn't think of a reverse image search, good point
+2	Did you ever watch any Japanese animation?
+2	Do you have a favorite stationery item?	Do you read science fiction?	Guitar pick
+2	Do you have a fear of heights?	No.. Not that at all.
+2	Do you have plans for the weekend?	I will probably drink too much and then regret it on Monday	Drinking	I have my Social Science exam on Monday so I'll study.
+2	Do you like to follow political news?;	Hell. yes I do.	Somewhat.
+2	Do you think fish make good pets?
+2	Have you ever competed in a marathon?
+2	Have you ever lived on your own?	No.	I don't think she would
+2	Have you ever seen a shooting star?	What did you wish for ? 	Did you make a wish ? 	Yes.
+2	How can we make society more fair?	No.	So what do you do now ? 
+2	How do you deal with sad memories? 	I just keep going forward.	Music.. Drown it all out.
+2	What is your favorite thing about yourself?	My face and my pretty acid sense of humor.	That I like all of you ! 
+2	What season do you like the most 	Money	Pool.	I will	How I can go down the road and get food.	I know a little about a lot.. But right now I would probably have to say
+2	When did you start to learn English?	Yes	You start with "Hello World".	Sure.. We can chat.
+2	When do you feel bad for yourself?	I come here..	I dance	Cry then music ! 
+2	Who is your favorite person on TV?	No. 2.	You
+2	why do you want to learn English?	I would love to learn how to play guitar.	I want to learn to code so I can get out of retail.	Not yet.
+2	Are there any foods you hate to eat?
+2	Are there seasons where you live? How many?	10, thus far ! 	10.
+2	Are you a messy or a neat person?	I think I look the part.	No, why do you ask?. My brother is though.	Just a hobby ! My day job is IT.	Like a level 3.	Cousin.
+2	Are you good at fixing problems with technology?
+2	Are you or do you know any vegetarians?
+2	Can you recommend a good book to me? 	Do you read science fiction?	every book ever.. never stop reading ! 	The name of the wind
+2	Do you have a high tolerance for pain?	Not to be rude but how old are you ? 
+2	Do you know how many bones you have?	A lot.	Thank you ! . You are awesome as well.	20, final year of my accounting degree	19, going to community college	19 year old university student with no clue what to do.
+2	Do you like documentaries? Why / why not?
+2	Do you like to talk about current events? 	Can we talk about food?. I like pizza	Music?
+2	Do you stay in hotels when you travel?	Back home.
+2	Do you think it's important to be thin?	I like it on other people.	I want to go into a huge cathedral and play the organ there.
+2	Do you think you are a good actor?	I have a dream ! . My dream is to have a dream!	THANK YOU FOR YOUR SERVICE	Special?. Where did you get that?
+2	Do you think you could live on Antarctica?
+2	Do you try to do good deeds often?	That is my good.. I want to inspire my example.	Don't know that either	Nice.. What were the last 2 you read?
+2	Do you use any type of cloud storage?
+2	Have you ever crossed the international date line?	Not yet, but it is to be near the end of summer next year, maybe early fall.	Where do you live now?
+2	Have you ever gone fishing in the sea?	Did you catch any fish ? 	Just a lot of rain on the wet coast?
+2	Have you ever gone to the emergency room?	Too much to list but yes I have.	I'll take that ! . Thank you!
+2	Have you ever gotten close to a dolphin?
+2	Have you ever subscribed to a streaming service?
+2	Have you thought about doing a sky walk?	Go for it.. If you get a chance to just go, do it.	how tall are you
+2	What is your favorite kind of TV show?
+2	What is your favorite place to take pictures?	Nothing.	Job hunting, working out, chill with my friend and maybe some homework
+2	What is your favorite side dish or condiment?	Man.. I don't have one way I prefer.
+2	What musical instrument would you like to learn?
+2	Are you able to solve your own computer problems? 	So what's your problem?. Maybe we can help	No this isn't homework
+2	Did anybody ever play a practical joke on you?	Yes.. Didn't turn out too well.	My husband did.
+2	Do you eat out or order in more often? 	Is it true if you don't use it, you lose it?
+2	Do you get lots of snow where you live?
+2	Do you like horror movies? Why or why not?	I do. but I don't like that I do.
+2	Do you think all animals on Earth are important?
+2	Do you think eating cereal is a good breakfast?
+2	Do you think you are more positive or negative?	Negative.	You know, I like the way that you put this.. Thank you.	I mean.. Kind of.
+2	Does your country have a king or a queen?	actual king of the hill from the show	Yes.	Suburb.	I can do neither
+2	Have you ever drived a car in another country?	1. Yes.
+2	What do you have to brag about this week?
+2	What is your favorite song when you feel lonely?
+2	What kind of anime would you suggest I watch? 	Go ahead
+2	What were your experiences at your first job like?	Thank you for helping.. It is a school program at my university and I have to write a 10 word essay.	sailing.
+2	What would your life be like without a computer? 	One with you in it
+2	Would you like to try living on another planet?	What do you love to do. ?
+2	Are there any special kinds of candy from your country?
+2	Are you a big fan of any current pop icons?	Music.	How about now ? 
+2	Are you crafty? What kind of stuff do you make?
+2	Can you use a number keypad without looking at it?	"Always fight.. No matter what, never stop fighting"	"just do it."	This is you from the future.. Don't do Physics at University.
+2	Do you enjoy cooking? What can you make the best? 	Thank you, I will!
+2	do you have a current goal you are working towards?
+2	Do you have any ideas for dealing with food waste?	Beer.	No project in particular right now.. I just want to learn how to do stuff so I won't be poor is that a joke?	Probably.
+2	Do you think factory work would be intersting for you?	Face to face.. Without a shadow of a doubt ! 	Learn to fly.. Too expensive.
+2	Do you think mosquitos do any good in the world?	To be with my love.	A money tree	I want to go into school psychology.
+2	Have you ever been up in a hot air balloon?	Hell we don't need much snow.. We don't even need it to stick.
+2	How do you unwind at the end of the day?	You will regret not looking.. Promise.
+2	What are you looking forward to in the coming month?	4 day weekend.	I want to talk to the girl I like. but I don't know what to say.	Going to meet a friend for a coffee.. Also I should be hearing back about a new job.	I start University tomorrow.. So so happy.	Pay check
+2	What do you do at work when things aren't busy? 	Another hour	Read.. I work at a library.	Office politics, hate it ! 	Drink.	I take a bath.
+2	What is your favorite thing to do when you're alone?
+2	What was the last movie you saw in a theater?	Big Hero 6 ! . Pretty nice one.
+2	Did you ever go to a dog cafe? How was it?
+2	Do you ever feel like you are always running away ?	Do you ever feel.. Like a plastic bag ? 	I give up, i like you a bit too much to be this mean.	On the dance floor, baby ! 	In hell	1.. At the art museum.
+2	Do you ever have times when they want to be alone?	A lot.. Especially when my cousin is over.	whats the fun in that? ! 	I could never be a butcher.. I don't like blood or the feel of raw meat.	Be the president.
+2	Do you ever use any home remidies when you are sick?	It is what it is	You know, I like the way that you put this.. Thank you.	I mean.. Kind of.	Yes ! . So few people seem to understand this!	Deep
+2	Do you have any friends from a religion other than yours?
+2	Do you think obesity is a big problem in your country?
+2	Have you ever had to make a public apology? (How come?)
+2	Have you had to deal with the loss of a pet?	Very good point	I think some people can solve it on their own..  No idea.	26 isn't it?	For sure..
+2	If you could have a single superpower, what would it be?	Mind reading.. You would have So much power over other people.	Meat vision
+2	If you could interview one deceased person, who would you choose? 	My middle brother.	I was at work on a sunday.. It was dead slow.
+2	If you could live anywhere on Earth, where would you go?	Close to home.
+2	Is there something in the world that you want to change? 	If you aim right you'll always have a clean toilet.	Relax.	Think about the planet, recycle.
+2	What is your favorite thing to talk about with your friends? 	Comedy	The Walking Dead ! 	Football.. Over and over again.
+2	Would you like to work in a huge company like Google?	How so?. What do you do?
+2	Are there any songs that always bring a tear to your eye?
+2	Do you drink tap water in your home or buy bottled water?	Is it a brand name ? 	Mine is great.. I drink it a lot.	Tap water?. No, I don't drink tap water.	Not enough  ! 
+2	Do you think some censorship on the internet is a good thing?	Reading.	It was your idea person who's name and gender I don't know
+2	Have you ever gone up to the top of a light house?	I'll have to try that tomorrow morning	Thank you.	I start my university course in march.. why the move?
+2	How many different alphabets do you think there are in the world?	10.	Just one, my family.
+2	If you could change one thing about yourself, what would it be?
+2	if you could play one sport professionally, which one would you choose?	Yes.. We are just starting with new visual technology.
+2	Do you have a nickname? What is it? How did you get it?	I have a dream ! . My dream is to have a dream!
+2	Do you like go to out for New Years or just stay home?	Pay just to visit home.. Yes.
+2	Do you like seeing a movie in a theater or at home better?	Sleep	What a cool way to put that ! . I think that when I play music.	awesome ! . good luck to you!	I hope you like it!	Third man.. You?
+2	Do you like your name? If given the chance, would you change it?	I like mine	I like mine.	Guess
+2	Do you think it would be easy to learn to fly a plane?	Panic.	Fly.. It would be awesome.	Sure.. I guess I just don't think I need one, then.	I do ! 
+2	Do you think you have a voice that would be good for narration?	'	Don't think I ever have, no.	Face to face.. Without a shadow of a doubt ! 
+2	Every get so frustrated at work that you just want to walk out?	I suppose so.. I just hate throwing my sleep schedule off like that.	Of course I don't have to ask, but I want to.. I want to make her happy and I feel like this would make her happy
+2	How many cups of coffee do you think you drink in a week?	Twice.	I can suck too	How much do you drink a day ? 	Probably family.. What item could you not live without?
+2	If you could have tea with one fictional character, who would it be?	The Name of the Wind universe.. Sigh	Like, right now or ever	Can we make up the object?
+2	If you could master any instrument on Earth instantly, what would it be?
+2	When was a time that you put all your eggs in one basket?	I do this way too often. and I always seem to get hurt one way or another.	I'll have to try that tomorrow morning
+2	Do you have a hobby? How did you figure out what you liked doing?	Go to sleep
+2	Do you have your own website or blog? What do you publish on it?
+2	Do you speak more than one language and how well do you speak it?
+2	Do you think that the type of shows that people watch reflect their personality?
+2	Have you ever set two friends up on a date? (How did it go?)
+2	How much time do you spend on the internet? What do you usually do?	On foot. '	Drink
+2	If you could go anywhere in the world, where would you go and why?	Another planet.	With you
+2	Are you married? If so, for how long? If not, do you want to be?	Why?. Do you even know him?	I wouldn't.
+2	Are you very active of do you prefer to just relax in your free time?	This is perfect ! . Thank you so much!	Yes, I will.. Thank you ! 
+2	Do you think people could live today if there were still dinosaurs on the planet?	Which South?	Wait.. You wipe standing up ? !
+2	Do you have a phone at home? If not, when was the last time you did?
+2	If you were going to make a video to post online, what would it be about? 	Good point.	Sigh, this one.
+2	What do you do when you have to tell someone "no" when they ask a favor?	I like it ! 	"I like you."	Turn up music and dance ! 	Dance.	Sing.. Sing a song.
+2	When something is bothering you what do you do to help you not dwell on it?	Do you need to ask?
+2	How often do you think about quitting your job and what would you do if you did?	Every single day.. I would go back to school.	Learn to fly.. Too expensive.
+2	If you could get tickets to any concert in the whole world, who would you go see?	Another planet.
+2	If you could go out to eat any meal you wanted, for free, where would you go?	White castle.
+2	If you could say something to your favorite celebrity who would it be and what would you say?
+3	Tell me about yourself!	What do you want to know ? 
+3	Anything exciting happening this week?	Well, i was on a cruise all week, so that was pretty awesome.	What was your fight about?
+3	Do you often procrastinate things?	Do you breathe?	I'll respond in a bit	no	I don't.. I embrace it.
+3	Have you ever built something?
+3	Have you ever tutored someone? 	You should just find what you love to do and learn to do it well..	How are you coping with this?	Done.
+3	When have you felt overwhelmed?
+3	Are you good at making desserts?	Not caring.	Casual Conversation.
+3	Are you handy at fixing things?
+3	Are you scared of any bugs?	no	You
+3	Describe yourself in a few words.	Glad I can be of help 	wild card	No
+3	Do yo have a selfie stick?	one for the road.	Please ? 	You look super familiar, but in a great way ! 	I love your nose	.. No. I just want some food.
+3	Do you chat online with strangers?	Practice, man, practice.. Wait, wrong joke.	I have one friend that I ever talk to.	0	I feel terrible I have a crush on my friend and I don't know how she will react if I tell her
+3	Do you regularly brush your teeth?	Or before!	This is genius.. I might have to start doing it.	I don't.. But know I have to try it.	I always do.
+3	Have you ever been to India?	The city or the planet?
+3	How do you handle self-critical voices?	.	I don't, I tend to try avoid it.. Don't do this. Toughing through fear is a building experience.
+3	Can you tell when someone is lying?	Ask her.	My mother
+3	Did you ever learn something new online?
+3	Do you ever borrow your friends clothes?	Value Village	Old Navy.	I wish I could just have some in the first place.
+3	Do you prefer fiction or nonfiction books?	The Walking Dead ! 	No	neither
+3	Do you prefer physical books or ebooks?
+3	Do you think tongue twisters are funny?	19? 20 in July.	Human.. As far as I know.	Today?. Bitter.	Why would you say that?
+3	Do you think white lies are okay?	Studying and studying
+3	Do you think you'll live to 100? 	Spend it with my wife.	Steal a car, rob a bank and go on a high speed chase while throwing the  out the window	I think..  Drum.
+3	Do you use any online streaming services? 	Organ Trail ! . Fun as hell.
+3	Have you ever taken a class online?	Art in high school.	Yes, when I was, like, 13.. For a week.
+3	How do you usually sign your emails?	On foot. '	If by "never" you mean "always" then yes	Like always	I only do it here	Pretty often
+3	How was life different before smart phones?
+3	What do you do to alleviate boredom?	Cry it out?
+3	What is something you love about yourself?	I love my beard.. I can pretty much grow a full beard in a month or so.
+3	Are there any sounds that really annoy you?
+3	Are there any TV shows you don't like?
+3	Can you name some animals that use camoflage?	Nice question ! . Hard to decide, so I'll choose two.	I tend to say "get with it" a lot.	One every Monday then ! 	A lion ! roar!	Did you mean house.?
+3	Do you ever ask older people for advice?
+3	Do you have any exciting plans for today?	Meeting a girl	Hanging around, get some rest and relax before i have to work tomorrow
+3	Do you have any ideas for new inventions?	Swim, cook, draw.
+3	Do you know of anybody who was assassinated?
+3	Do you text more or call more? Why?	Yes	Yes.	Is it true if you don't use it, you lose it?	Sure
+3	Do you use a clothes dryer at home?	I do.	Yes, always do.	Yes, always.	Of course I do ! . You monster.
+3	Have you ever been to a haunted house?	Ice cream 3 What's your favorite flavor?
+3	Have you ever made anything out of wood?	Turning 30 was easy.. So was turning 40.
+3	Have you ever screamed at someone? (How come?)	Don't worry baby, I'll stay with you 	Be gentle man	i see that now!
+3	Have you ever seen dolphins in the wild?	Not yet, but I plan on doing so.
+3	Have you ever tried to make some origami?	Tennis and playing piano	Kill a bear.. Make a bear fur coat.
+3	What are some things you are scared of? 	You
+3	Did you encounter anything this week that was inspiring?
+3	Do you have any pets? What are their names?
+3	Do you think animals experience emotions like people do?	I want to be left alone, I don't want to BE alone.	Going to a theme park, and seeing a movie in the cinema ! 	Thank you ! . You are awesome as well.
+3	Do you think capital punishment is a good punishment?	Why do you feel that way?	Great thinking ! 	Don't feed him.	Where do I go for the candy.?
+3	Do you think illegal downloading is a big problem?	I need 3.50	I have one ! !. I love it!	I have a dream ! . My dream is to have a dream!
+3	Do you think it's offensive to call people "crazy'?	Get a first in my university grade.. Which would be great.
+3	Have you ever been in a really bad airport?	Family, property, job.. Pretty much the same.
+3	What do you usually do on New Year's day?	In bed.
+3	What is your favorite regional cuisine in the world?	Here.
+3	Are emotions necessary for human survival? Why or why not?	
+3	Are there any words that you think are completely international?	Planet Earth.
+3	Are there are any societal norms you want to change? 	Thank you very much.	Right.. Correct.
+3	Are you happy? What about your life makes you happy? 	Going to the cinema and seeing a great movie.
+3	Do you have any habits you wish you could erase?	wait what?	I mean.. Kind of.
+3	Do you think homephones could be improved in any way?	I mean.. Kind of.	..	I would have to think of a way to make one.	Well I still have some time to make a decision.	true
+3	Does everyone in your immediate family have the same name?	You can never be too safe.	Look at all the fox I give about your name
+3	Have you ever won an award? What was it for?
+3	At what point do you decide to upgrade your cell phone?	"just do it."	"Always fight.. No matter what, never stop fighting"	This is you from the future.. Don't do Physics at University.
+3	Can you be homesick for somewhere that was never your home?	Home and sick.
+3	Do you ever have funny or interesting thoughts in the shower?	Find a cat.. Squeeze cat.
+3	Do you have a controled diet or do you eat freely?	I don't drink very much.. Once or twice a month i'll drink.
+3	Do you think Las Vegas would be a good vacation spot?	Because I wouldn't mind traveling just for a such place.
+3	Do you think people immigrating to your country make it better?
+3	Do you think people who are good at math are smarter?	Yes.	Traveling can also help
+3	Do you think walking is good exericse? Better than weight training?	708.. On the bus to school.
+3	Have you ever been vegetarian? What did or would you eat?
+3	Have you ever fantasized about changing your first name? To what?	I suppose my passion is the environment.. I love the Earth and nature and science.
+3	How can you take your mind off of something or someone?	Yes ! . So few people seem to understand this!	Yes.. I hate it.
+3	How do you show others how much you care for them?	What's your study method?
+3	How long does it take your phone battery to run down?	What
+3	Is there something out there that disgusts you? What is it?
+3	Are there are special traditions or customs in your country surrounding death?	Well, there is a whole big world other than the west.	yes
+3	Did you ever get a really bad haircut? What did you do? 	Go to sleep	Reading a book always help.	Eleven.
+3	Do you have a favorite quote? What makes it resonate with you?
+3	Do you have any personal rituals for the end of the year?	25 and the main goal is not die
+3	Do you have good vision? If not, do prefer contacts or glasses?	Anxious to get it over with.. I know it might sound crazy I guess it is?	Is it true if you don't use it, you lose it?	I have a virtual pet.
+3	Do you think pets are good or bad for kids to have?
+3	Have you been to a fine dining restaurant? What did you order?	Rice Age?
+3	How can you make someones day when they are really far away?	Complement other people.	I call it "the bubble gum effect."
+3	How do you get motivated and stay that way without losing focus?	Simple.. I don't .	this is a good way to put it.
+3	How would you live your life if money was not an issue?	I would live in a small house in a beach community, and open my own small business of some kind.. I would travel here and there.	Never.. Work.
+3	Is public transportation in your area convenient? How could it be better?
+3	What would happen if you deleted all of your social media accounts? 
+3	Any tips on finding out what you want to do with your life?	it will find you just keep searching	The perfect sandwich.
+3	Are you more likely to procrastinate a task or to finish it early?
+3	Do you do your own laundry or does somebody do it for you?	I want to go into school psychology.
+3	Do you think factory work will be done by humans for much longer?	Another hour	this is a good way to put it.	Probably.
+3	How much do you think you spend on groceries in an average month?	Right now.. 100 a month I think?	Can I kill the people I hate?
+3	If you could have 3 wishes, what would you wish for? And why?	1 to be rich.. That way I can buy a house, car, pay for school, have a wedding.	Why?. Do you even know him?
+3	What do you do if you meet panhandlers or beggars in the street?
+3	What is one of your favorite topics to talk about with your friends? 
+3	What is something that you do regularly that is a waste of time?	I don't know.. You could probably look it up.
+3	When you have too much going on, any advice on how to refocus?	I will try.. Thank you.
+3	Do you think it's better to travel by land or air to a destination?
+3	Do you think your country makes enough of an effort to use green energy?	I like you.. To cleaning I go ! 	Why the lawyer	I do.. Thank you so much.	He is ! 
+3	do your parents had a favorite kid? do you have a favorite family member?	A bit of yes and no but since they are in a different country, visiting is expensive.
+3	Have you ever grown vegetables? If not, what would you like to try growing? 	didn't know then, don't know now.
+3	Have you ever had a psychic reading? Did you believe it? Was it accurate?	None at all!. Not sure why.
+3	Have you ever reconnected with an old friend after a long period of time?	I bet she was so happy to see you.	Thank you very much!. Happy New Year to you too!	Good luck ! 
+3	What languages do you guys speak? Or what language would you like to learn?
+3	Are you happy with your job choice? Would you have done something different looking back?
+3	How do you keep a conversation going when the other person invovled isnt very talkative?	I know.. And at any other time, I wouldn't have done it.
+3	What kind of app do you think you need for your phone? Make one up!
+3	When is a time that you felt useless and what did you do about it?
+3	Who is your favorite author and why? What are some of their more popular works?
+3	Did you ever meet someone online? How did it go and where are you two now?
+3	Do think it would be more fun or scary to go around the Earth in space?	Thank you so much for your help ! . I appreciate it!
+3	Do you have something that is super important to you that no one else cares about?	I would have to think of a way to make one.	Jam with the stereo system.	Turn up music and dance ! 
+3	How do you think the first passengers on the first passenger flight felt during take off?	Once we left port, we were quite far from land.. Smooth cruise though.	Can I ask which band ? 	I wish I could travel too ! 	Where is it you are off to?	They did NOT say that..  For real ? 
+3	What is the best gift you have ever gotten on a holiday or for your birthday? 	I like cake.. I didn't get any last year	A chair.. A sandwich.
+3	Do you have a song that you listen to when you get angry or bitter about something?	No never	that is very true, and not very negative	Right now, I won't deny that I still like him.. And yes, I need to learn from my previous mistake.
+3	Do you think you could drive on the opposite side of the road than you do normally?	Pretty much this.. Hit the nail on the head.
+3	Have you guys ever lived in a country far away from your home? What was it like?	Ice cream 3 What's your favorite flavor?
+3	If you had to live as an animal, what kind of animal would you want to be? 	left half cat.	Did you mean house.?	Nice question ! . Hard to decide, so I'll choose two.
+3	Do you think it would be harder to learn a spoken language or a sign language from birth?	French.	German and American Sign Language
+3	What do you think is the coolest thing about you? Is it a very unique trait of yours?	Ever watch classic doctor who?

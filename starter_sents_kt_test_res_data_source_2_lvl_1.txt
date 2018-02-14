@@ -1,0 +1,24 @@
+1	How are you?	Fine .	Fine .	I 'm doing well .	Fine , and you ?	I 'm good . How are you ?
+1	What's your hobby?	Photograph .	My absolutely favorite kind of pie is apple .	I think I need a thorough check-up .	Swimming . What about you ?	Basketball , I 'm a basketball fan .
+1	What's your name?	Addison .	My name is Sam .	My name is James .	My name is James .	Anderson .
+1	Did you have lunch? 	From one to two .	From one to two .	Yes . When ?	I was thinking we should just go to the cafeteria .	Sure . How about Monday ?
+1	Do you enjoy flying?	Yes , I do .	I 'd prefer a morning flight .	I have no idea . Maybe I want to take a boat down the river .	I did . I especially liked the food . What do you think about the food here ?	I enjoy drawing and painting .
+1	Do you ever gamble?	Maybe 500 dollars .	I 'm not sure .	I think so .	Yes , please .	I 'll let you know when I get the book in .
+1	Do you recycle well?	Yes . Here you are .	No , where are the cotton cloths ?	I want to go jogging .	Well , I want to deposit 2 , 000 yuan into my account .	Yes . Is it OK with you ?
+1	How are you doing?	I 'm pretty good , you ?	I 'm doing great .	Great . Thanks .	Great . Thanks for asking .	Not bad . What about you ?
+1	How are you today?	Great , thanks .	I 'm very well , Thank you . And you ?	Very well .	I 'm fine .	Good . Thanks for asking .
+1	How's the weather today?	It 's hot .	It 's fine today .	Neither too cold , nor too hot .	It rained all day yesterday . The weather was awful last week .	It says a storm may come tomorrow .
+1	What is your dream?	Many people like him get a flying start but soon disappear .	Many people like him get a flying start but soon disappear .	Reading newspaper on the couch .	My major is Business Administration .	My brother did it .
+1	Do you ever insult people?	A good friend of mine is there on a homestay program , too .	Yes , I 'm good with people .	Actually I do .	We have Italian , French and Thousand Island .	We have French and Thousand Island .
+1	Do you get sick often?	No , I often go there with my friends .	We like to get together , chat and enjoy beautiful music .	About three times a week if I can .	About three times a week if I can .	never mind that , I 'll take care of it . Are you available next week ?
+1	Do you like drinking wine?	I 'd prefer wine . You ?	I like champagne .	Depending on what you consider a lot .	Well , I never drink alcohol , coffee or tea .	Well , I never drink alcohol , coffee or tea . They are very bad for you .
+1	Do you like winter weather?	I heard it might rain .	It sounds like it will be .	Alps , suppose .	No . Why ?	No . Why ?
+1	Do you often get mail?	Once a week .	We like to get together , chat and enjoy beautiful music .	never mind that , I 'll take care of it . Are you available next week ?	I need it delivered tomorrow . Will that be possible ?	I need it delivered tomorrow . Will that be possible ?
+1	How are you feeling today?	Very well .	Great , thanks .	I 'm very well , Thank you . And you ?	Very well . Thank you .	I 'm fine .
+1	How fast can you type?	1564 .	That would be wonderful .	What time does it start ?	You can be assured of it .	Never mind that , I 'll take care of it . Are you available next week ?
+1	what day is it today? 	It 's Friday .	Today is December twenty-third , two thousand and two .	Today is Thursday .	It 's Thursday , I think .	It 's Saturday . Could you make the time ?
+1	What did you do today?	I shouted it back of course .	I got it for parking in the red zone .	I need to take a few classes .	I really think we should take a tour of the White House .	Let me get a hamburger .
+1	What is your ethnic background?	Han .	I am Chinese by birth .	To begin with , I have to use chopsticks .	to begin with , I have to use chopsticks .	My brother did it .
+1	What is your favorite color?	In my opinion , orange is very nice .	Red .	It is green . Come upstairs and see it .	I like red .	My absolutely favorite kind of pie is apple .
+1	What is your favorite fruit?	Fishing . It 's great fun .	My favorite is to play computer games .	My absolutely favorite kind of pie is apple .	I listen to various types of music .	I like peach blossom , because I like spring .
+1	What is your favorite meal?	My absolutely favorite kind of pie is apple .	Fishing . It 's great fun .	My favorite is to play computer games .	I listen to various types of music .	Steak , please .

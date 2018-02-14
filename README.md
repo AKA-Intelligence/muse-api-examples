@@ -1,6 +1,6 @@
 # Muse API client example applications
 
-**Environment:** python 2.7
+**Environment:** python 3.6
 
 **Installation:**
 
