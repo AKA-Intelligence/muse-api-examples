@@ -11,6 +11,8 @@ from nltk.corpus import stopwords
 muse_server = 'https://muse.themusio.com/api'
 stop = set(stopwords.words('english'))
 
+
+
 # auth / user model
 def post_chatlog(member_id,text_in,text_out,access_token):
 	endpoint = '/chatlog/%s/'%str(member_id)
@@ -37,29 +39,41 @@ def choose_member(jwt):
 	members = response.json()['data']
 	member_ids = [str(member['member_id']) for member in members]
 	def print_members():
-		print "Choose a member"
+		print("Choose a member")
 		for member in members:
-			print member['member_id'], member['first_name'], member['last_name']
+			print(member['member_id'], member['first_name'], member['last_name'])
 	print_members()
-	chosen_member_id = str(raw_input('member id> '))
+	chosen_member_id = str(input('member id> '))
 	while chosen_member_id not in member_ids:
-		print "Not a valid member id. Choose a member:"
+		print("Not a valid member id. Choose a member:")
 		print_members()
-		chosen_member_id = str(raw_input('member id> '))
+		chosen_member_id = str(input('member id> '))
 	return chosen_member_id
 
 
 # client util
+def choose_level():
+	def print_options():
+		print("Choose chat level >= 0")
+	print_options()
+	level = str(input('level> '))
+	while not int(level.lower()) >= 0:
+		print("Not a valid level >= 0.")
+		print_options()
+		level = str(input('level> '))
+	return level
+
+
 def choose_data_source():
 	options = [1,2,3]
 	def print_options():
 		print("Choose response data source. Options are 1,2,3")
 	print_options()
-	data_source = str(raw_input('data source> '))
+	data_source = str(input('data source> '))
 	while int(data_source.lower()) not in options:
-		print "Not a valid data source."
+		print("Not a valid data source.")
 		print_options()
-		data_source = str(raw_input('data source> '))
+		data_source = str(input('data source> '))
 	return data_source
 
 
@@ -68,15 +82,28 @@ def choose_bot_emotion():
 	def print_options():
 		print("Choose bot emotion. Options are: neutral, anger, joy, fear, sadness")
 	print_options()
-	bot_emotion = str(raw_input('bot emotion> '))
+	bot_emotion = str(input('bot emotion> '))
 	while bot_emotion not in options:
-		print "Not a valid bot emotion."
+		print("Not a valid bot emotion.")
 		print_options()
-		bot_emotion = str(raw_input('bot emotion> '))
+		bot_emotion = str(input('bot emotion> '))
 	return bot_emotion
 
 
 # chat
+
+def chat_kt(user_text,jwt,member_id,topic,level):
+	endpoint = muse_server + '/chat/kt/'
+	data = {'user_text':user_text,'member_id':member_id,'level':level,'topic':topic}
+	headers = {'content-type':'application/json',
+			   'Authorization':'Bearer '+jwt}
+	resp = requests.post(endpoint,
+		data=json.dumps(data),
+		headers=headers)
+	return resp.json()		
+
+
+
 ## pre-made free chat
 def chat_free(user_text,jwt,member_id):
 	endpoint = muse_server + '/chat/'
@@ -98,6 +125,17 @@ def chat_scripted(user_text,jwt,member_id):
 		data=json.dumps(data),
 		headers=headers)
 	return resp.json()		
+
+def chat_scripted_kt(user_text,jwt,member_id,story_id):
+	endpoint = muse_server + '/chat/kt/scripted/'
+	data = {'user_text':user_text,'member_id':member_id,'story_id':story_id}
+	headers = {'content-type':'application/json',
+			   'Authorization':'Bearer '+jwt}
+	resp = requests.post(endpoint,
+		data=json.dumps(data),
+		headers=headers)
+	return resp.json()		
+
 
 ## generative model
 def chat_generate(context,bot_emotion,jwt,member_id):
