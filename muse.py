@@ -9,6 +9,7 @@ from nltk.corpus import stopwords
 
 
 muse_server = 'https://muse.themusio.com/api'
+# muse_server = 'http://localhost:5000/api'
 stop = set(stopwords.words('english'))
 
 
@@ -91,6 +92,17 @@ def choose_bot_emotion():
 
 
 # chat
+
+def chat_evaluation(jwt,member_id):
+	endpoint = muse_server + '/chat/kt/evaluation/'
+	data = {'member_id':member_id}
+	headers = {
+		'Authorization':"Bearer "+jwt,
+		'Content-type':'application/json'}
+	resp = requests.post(endpoint,
+		data=json.dumps(data),
+		headers=headers)
+	return resp.json()
 
 def chat_kt(user_text,jwt,member_id,topic,level):
 	endpoint = muse_server + '/chat/kt/'

@@ -3,7 +3,6 @@ import requests
 import getpass
 
 from muse import signin, chat_scripted_kt, choose_member
-muse_server = 'https://muse.themusio.com/api'
 
 
 if __name__ == '__main__':
