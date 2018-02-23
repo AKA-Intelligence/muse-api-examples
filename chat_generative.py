@@ -5,7 +5,7 @@ import getpass
 from muse import signin, choose_member, choose_bot_emotion, chat_generate
 
 if __name__ == '__main__':
-	email = raw_input("email: ")
+	email = input("email: ")
 	password = getpass.getpass("password: ")
 
 	jwt = signin(email,password)
@@ -15,7 +15,7 @@ if __name__ == '__main__':
 	chat_hist = []
 
 	while True:
-		user_text = raw_input('[U] ')
+		user_text = input('[U] ')
 
 		chat_hist = chat_hist + [user_text]
 
@@ -27,4 +27,4 @@ if __name__ == '__main__':
 
 		chat_hist = chat_hist + [resp_generative]
 
-		print '[B]', resp_generative
+		print('[B]', resp_generative)

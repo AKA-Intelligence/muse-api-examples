@@ -11,10 +11,7 @@ if __name__ == '__main__':
 
     jwt = signin(email,password)
     member_id = choose_member(jwt)
-    story_id = input('choose story id options are: horse, school_boy> ')
-    if story_id.lower() not in ['horse','school_boy']:
-        story_id = 'horse'
-    print('using story %s'%story_id)
+    story_id = input('choose story id options are: horse, school_boy, dog, pizza, dinner, kite, puppy> ')
 
     while True:
         user_text = input('[U] ')

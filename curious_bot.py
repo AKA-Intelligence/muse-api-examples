@@ -8,14 +8,14 @@ from muse import signin, get_contextual_question
 
 
 if __name__ == "__main__":
-	email = raw_input("email: ")
+	email = input("email: ")
 	password = getpass.getpass("password: ")
 
 	jwt = signin(email,password)
 
 	used_question_ids = []
 	while True:
-		user_sent = raw_input("What would you like me to ask you about? > ")
+		user_sent = input("What would you like me to ask you about? > ")
 		question, question_id = get_contextual_question(user_sent, used_question_ids, jwt)
 		used_question_ids.append(question_id)
-		print question
+		print(question)

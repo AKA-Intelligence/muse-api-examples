@@ -10,7 +10,7 @@ muse_server = 'https://muse.themusio.com/api'
 
 
 if __name__ == '__main__':
-	email = raw_input("email: ")
+	email = input("email: ")
 	password = getpass.getpass("password: ")
 
 	access_token = signin(email,password)
@@ -18,7 +18,7 @@ if __name__ == '__main__':
 	data_source = choose_data_source()
 
 	count = 0
-	text_out_2 = raw_input("Type a seed sentence > ")
+	text_out_2 = input("Type a seed sentence > ")
 	while count < 7:
 
 
@@ -38,6 +38,6 @@ if __name__ == '__main__':
 		text_out_2 = candidates_2[random.choice(scores_argsort_2[-5:])]['text']
 
 
-		print 'bot1', text_out_1
-		print 'bot2', text_out_2
+		print('bot1', text_out_1)
+		print('bot2', text_out_2)
 		count += 1

@@ -24,7 +24,7 @@ console_width = int(console_width)
 
 
 if __name__ == '__main__':
-	email = raw_input("email: ")
+	email = input("email: ")
 	password = getpass.getpass("password: ")
 
 	jwt = signin(email,password)
@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
 	while True:
 		print("USER INPUT")
-		user_sent = raw_input(" - ")
+		user_sent = input(" - ")
 
 		chat_hist.append(user_sent)
 		user_utt_hist.append(user_sent)

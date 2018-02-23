@@ -7,12 +7,9 @@ import getpass
 import numpy as np
 from nltk.corpus import stopwords
 
-
 muse_server = 'https://muse.themusio.com/api'
 # muse_server = 'http://localhost:5000/api'
 stop = set(stopwords.words('english'))
-
-
 
 # auth / user model
 def post_chatlog(member_id,text_in,text_out,access_token):

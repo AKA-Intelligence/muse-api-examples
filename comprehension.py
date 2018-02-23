@@ -7,6 +7,6 @@ from muse import comprehend
 
 if __name__=='__main__':
 	while True:
-		passage = raw_input('passage> ')
-		question = raw_input('question> ')
+		passage = input('passage> ')
+		question = input('question> ')
 		print(comprehend(passage,question))
